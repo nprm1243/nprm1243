@@ -1,8 +1,6 @@
-### Hi there 👋
+# Hello, folks!
 
-
-<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
-
+My name is Nghi and I'm a data science student, I'm form Viet Nam and studying at VNU Ho Chi Minh city University of Science. You can find me on [![Facebook][1.2]][1],  or on [![LinkedIn][2.1]][2].
 
 <!--
 **nprm1243/nprm1243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[1.1]: https://www.facebook.com/nghi.gia.779642
+[2.1]: https://www.linkedin.com/in/nghi-gia-907162217/
