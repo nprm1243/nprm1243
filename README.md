@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[1.1]: https://github.com/nprm1243/nprm1243/blob/main/fb.png
+[1.1]: https://raw.githubusercontent.com/nprm1243/nprm1243/master/fb.png
 [2.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 
 [1]: https://www.facebook.com/nghi.gia.779642
