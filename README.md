@@ -17,5 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[1.1]: https://www.facebook.com/nghi.gia.779642
-[2.1]: https://www.linkedin.com/in/nghi-gia-907162217/
+[1.1]: http://i.imgur.com/wWzX9uB.png
+[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
+
+[1]: https://www.facebook.com/nghi.gia.779642
+[2]: https://www.linkedin.com/in/nghi-gia-907162217/
