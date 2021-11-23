@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[1.1]: http://i.imgur.com/wWzX9uB.png
+[1.1]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fvi.wikipedia.org%2Fwiki%2FT%25E1%25BA%25ADp_tin%3AFacebook_Logo_(2019).png&psig=AOvVaw2yiTRhTGbglG1FqnMKgnAL&ust=1637721467263000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMiS6YS6rfQCFQAAAAAdAAAAABAD
 [1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 
 [1]: https://www.facebook.com/nghi.gia.779642
